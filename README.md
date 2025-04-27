@@ -1,5 +1,5 @@
-# Live webpage url: https://plp-web-dev.vercel.app/
 # Group Members
+
 - David Macharia
 - Dennis Mwangi
 - Precious Chukwu
@@ -10,3 +10,13 @@
 - Palesa Mbali
 - Albert Sipoi
 - Silindile Ndhlovu
+
+## Live Link
+
+[Live Demo](https://plp-web-dev.vercel.app/)
+
+## Tech Stack
+
+- HTML
+- CSS
+- Bootstrap
