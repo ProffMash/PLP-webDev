@@ -1,11 +1,12 @@
-# Group Members:
-david	macharia	
-dennis	mwangi	
-precious	chukwu	
-gerison	macharia	
-elizabeth	magaduka	
-najib	abdirahman	
-sihle	nsimba		
-palesa mbali	
-albert	sipoi	
-silindile	ndhlovu	
+# Group Members
+
+- David Macharia
+- Dennis Mwangi
+- Precious Chukwu
+- Gerison Macharia
+- Elizabeth Magaduka
+- Najib Abdirahman
+- Sihle Nsimba
+- Palesa Mbali
+- Albert Sipoi
+- Silindile Ndhlovu
